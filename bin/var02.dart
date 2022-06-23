@@ -1,4 +1,4 @@
 void main() {
-  String x = '27';
-  print(x);
+  String a = '27';
+  print(a);
 }
